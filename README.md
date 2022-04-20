@@ -1,0 +1,2 @@
+# awstraining
+AWS training projects
